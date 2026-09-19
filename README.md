@@ -68,14 +68,8 @@ PlatformLink
 
 🐙 GitHub   :   https://github.com/sandhyashakya300-beep/sandhyashakya300-beep
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
-<p>⭐ <i>If you find my work valuable, consider starring my repositories!</i> ⭐</p>
-<p><b>"The best way to learn is to build something that matters."</b></p>
-</div>
 
 ### 👨‍💻 About Me
-
 
 ```python
 class SandhyaShakya:
@@ -93,4 +87,12 @@ class SandhyaShakya:
             "collaborating": "Open-source Data Science, Power BI, and SQL projects",
             "ask_me_about": ["Python", "SQL", "Power BI", "Data Visualization"],
             "achievements": "Proud participant of the recent hackathon at RBMI Institute"
+}
+```
 
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+<p>⭐ <i>If you find my work valuable, consider starring my repositories!</i> ⭐</p>
+<p><b>"The best way to learn is to build something that matters."</b></p>
+</div>
