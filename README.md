@@ -8,23 +8,29 @@
 <a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B342F5&center=true&vCenter=true&width=435&lines=Future+Data+Scientist;Passionate+about+AI+%26+ML;Building+Data-Driven+Solutions" alt="Typing SVG" /></a>
 </p>
 
+### 👨‍💻 About Me
 
+```python
+class SandhyaShakya:
+    def __init__(self):
+        self.name = "Sandhya Shakya"
+        self.role = "Data Scientist | Data Science Enthusiast"
+        self.languages = ["Python", "SQL", "Java", "C", "C++"]
+        self.focus = ["Data Analysis", "Machine Learning", "Data Visualization"]
+        self.mantra = "Learning new things, experimenting, failing, and growing!"
+
+    def currently(self):
+        return {
+            "building": "Python automated scripts and interactive games",
+            "learning": "Java (OOP principles) & Advanced data preprocessing techniques",
+            "collaborating": "Open-source Data Science, Power BI, and SQL projects",
+            "ask_me_about": ["Python", "SQL", "Power BI", "Data Visualization"],
+            "achievements": "Proud participant of the recent hackathon at RBMI Institute"
+}
+```
 <br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sandhya-shakya-89a015352/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sandhyashakya300@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/sandhyashakya300-beep">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://sandhya-data-insight.lovable.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandhyashakya300-beep&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="Profile Views" />
@@ -56,6 +62,24 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sandhyashakya300-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandhya-shakya-89a015352/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sandhyashakya300@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/sandhyashakya300-beep">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://sandhya-data-insight.lovable.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ###📫 Let's Connect
 
 PlatformLink
@@ -69,26 +93,7 @@ PlatformLink
 🐙 GitHub   :   https://github.com/sandhyashakya300-beep/sandhyashakya300-beep
 
 
-### 👨‍💻 About Me
 
-```python
-class SandhyaShakya:
-    def __init__(self):
-        self.name = "Sandhya Shakya"
-        self.role = "Data Scientist | Data Science Enthusiast"
-        self.languages = ["Python", "SQL", "Java", "C", "C++"]
-        self.focus = ["Data Analysis", "Machine Learning", "Data Visualization"]
-        self.mantra = "Learning new things, experimenting, failing, and growing!"
-
-    def currently(self):
-        return {
-            "building": "Python automated scripts and interactive games",
-            "learning": "Java (OOP principles) & Advanced data preprocessing techniques",
-            "collaborating": "Open-source Data Science, Power BI, and SQL projects",
-            "ask_me_about": ["Python", "SQL", "Power BI", "Data Visualization"],
-            "achievements": "Proud participant of the recent hackathon at RBMI Institute"
-}
-```
 
 
 <div align="center">
