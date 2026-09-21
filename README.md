@@ -38,7 +38,7 @@ class SandhyaShakya:
 </div>
 
 <br>
-### 💻 My Tech Stack:
+### 💻 MY TECH STACK :
 
 <!-- Languages -->
 ### CORE LANGUAGES :
