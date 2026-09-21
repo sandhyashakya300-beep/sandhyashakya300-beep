@@ -38,7 +38,7 @@ class SandhyaShakya:
 </div>
 
 <br>
-### 💻 MY TECH STACK :
+💻  My Tech Stack:
 
 <!-- Languages -->
 ### CORE LANGUAGES :
@@ -80,7 +80,7 @@ class SandhyaShakya:
   </a>
 </p>
 
-###📫 Let's Connect
+📫 Let's Connect
 
 PlatformLink
 
