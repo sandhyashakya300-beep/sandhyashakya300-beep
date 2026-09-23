@@ -38,6 +38,7 @@ class SandhyaShakya:
 </div>
 
 <br>
+
 💻  My Tech Stack:
 
 <!-- Languages -->
@@ -46,7 +47,7 @@ class SandhyaShakya:
 <br><br>
 <!-- Machine Learning & Data Science -->
 ### MACHINE LEARNING AND DATA SCIENCE :
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-179C26?style=for-the-badge&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-139E15?style=for-the-badge&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Advanced_MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <br><br>
 <!-- Tools & Platforms -->
 ### TOOLS AND PLATFORM :
