@@ -15,7 +15,7 @@ class SandhyaShakya:
     def __init__(self):
         self.name = "Sandhya Shakya"
         self.role = "Data Scientist | Data Science Enthusiast"
-        self.languages = ["Python", "SQL", "Java", "C", "C++"]
+        self.languages = ["Python", "SQL", "Oops With Java", "C"]
         self.focus = ["Data Analysis", "Machine Learning", "Data Visualization"]
         self.mantra = "Learning new things, experimenting, failing, and growing!"
 
