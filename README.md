@@ -21,8 +21,8 @@ class SandhyaShakya:
 
     def currently(self):
         return {
-            "building": "Python automated scripts and interactive games",
-            "learning": "Java (OOP principles) & Advanced data preprocessing techniques",
+            "building": "Python automated scripts and interactive games and something excited",
+            "learning": "Machine Learning & Advanced data preprocessing techniques",
             "collaborating": "Open-source Data Science, Power BI, and SQL projects",
             "ask_me_about": ["Python", "SQL", "Power BI", "Data Visualization"],
             "achievements": "Proud participant of the recent hackathon at RBMI Institute and Future University"
