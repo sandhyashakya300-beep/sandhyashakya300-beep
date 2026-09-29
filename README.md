@@ -103,6 +103,23 @@ class SandhyaShakya:
   </a>
 </p>
 
+
+
+
+
+📫 Let's Connect
+
+PlatformLink
+
+💼 LinkedIn :   https://www.linkedin.com/in/sandhya-shakya-89a015352/
+
+📧 Email   sandhyashakya300@gmail.com
+
+🌐 Portfolio  :  https://sandhya-data-insight.lovable.app
+
+🐙 GitHub   :   https://github.com/sandhyashakya300-beep/sandhyashakya300-beep
+
+
 ## 💭 Philosophy & Approach
 
 <div align="center">
@@ -152,21 +169,6 @@ The second best time is now."*
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-📫 Let's Connect
-
-PlatformLink
-
-💼 LinkedIn :   https://www.linkedin.com/in/sandhya-shakya-89a015352/
-
-📧 Email   sandhyashakya300@gmail.com
-
-🌐 Portfolio  :  https://sandhya-data-insight.lovable.app
-
-🐙 GitHub   :   https://github.com/sandhyashakya300-beep/sandhyashakya300-beep
-
-
 
 
 
