@@ -103,6 +103,57 @@ class SandhyaShakya:
   </a>
 </p>
 
+## 💭 Philosophy & Approach
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 My Learning Style
+
+```yaml
+approach: hands-on
+mindset: growth-oriented
+method: learn → build → improve → repeat
+focus: real-world applications
+belief: consistency > intensity
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🌟 Core Values
+
+- 📚 **Continuous Learning**
+- 🔨 **Building Over Watching**
+- 🤝 **Community Contribution**
+- 💡 **Problem-Solving First**
+- 🎯 **Quality Over Quantity**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💬 Personal Mantra
+
+> *"Perfection is not attainable, but if we chase 
+perfection, we can catch excellence."*  
+> — Vince Lombardi
+
+> *"The best time to plant a tree was 20 years ago. 
+The second best time is now."*
+
+> Learning, building, and growing — one commit at a time.
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 📫 Let's Connect
 
 PlatformLink
