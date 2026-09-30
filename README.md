@@ -161,8 +161,6 @@ belief: consistency > intensity
 perfection, we can catch excellence."*  
 > — Vince Lombardi
 
-> *"The best time to plant a tree was 20 years ago. 
-The second best time is now."*
 
 > Learning, building, and growing — one commit at a time.
 
