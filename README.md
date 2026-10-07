@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sandhya%20Shakya&fontSize=50&animation=fadeIn" width="100%"/>
 
 <h3 align="center">Data Science Enthusiast | Problem Solver</h3>
-
 <!-- Typing Animation -->
 <p align="center">
 <a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B342F5&center=true&vCenter=true&width=435&lines=Future+Data+Scientist;Passionate+about+AI+%26+ML;Building+Data-Driven+Solutions" alt="Typing SVG" /></a>
