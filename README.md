@@ -46,7 +46,6 @@ class SandhyaShakya:
 
 <img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,java&theme=dark" alt="Tech Stack Icons" />
