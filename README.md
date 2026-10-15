@@ -154,7 +154,6 @@ belief: consistency > intensity
 perfection, we can catch excellence."*  
 > — Vince Lombardi
 
-
 > Learning, building, and growing — one commit at a time.
 
 </div>
