@@ -76,7 +76,6 @@ class SandhyaShakya:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhyashakya300-beep&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sandhyashakya300-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
