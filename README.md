@@ -113,6 +113,7 @@ PlatformLink
 
 ## 💭 Philosophy & Approach
 
+
 <div align="center">
 
 <table>
