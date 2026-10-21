@@ -149,6 +149,7 @@ belief: consistency > intensity
 
 <br/>
 
+
 ### 💬 Personal Mantra
 
 > *"Perfection is not attainable, but if we chase 
