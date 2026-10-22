@@ -148,7 +148,6 @@ belief: consistency > intensity
 </td>
 </tr>
 </table>
-
 <br/>
 
 
