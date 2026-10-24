@@ -137,7 +137,6 @@ belief: consistency > intensity
 </td>
 <td width="50%" valign="top">
 
-
 ### 🌟 Core Values
 
 - 📚 **Continuous Learning**
