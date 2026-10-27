@@ -82,7 +82,6 @@ class SandhyaShakya:
 <img src="https://github-readme-stats.vercel.app/api?username=sandhyashakya300-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-
 ## 🌐 Connect With Me :
 <p align="center">
   <a href="https://www.linkedin.com/in/sandhya-shakya-89a015352/">
