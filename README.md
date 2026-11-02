@@ -139,6 +139,7 @@ belief: consistency > intensity
 - 💡 **Problem-Solving First**
 - 🎯 **Quality Over Quantity**
 
+
 </td>
 </tr>
 </table>
