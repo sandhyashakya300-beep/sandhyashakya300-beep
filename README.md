@@ -135,7 +135,6 @@ belief: consistency > intensity
 
 - 📚 **Continuous Learning**
 - 🔨 **Building Over Watching**
-- 🤝 **Community Contribution**
 - 💡 **Problem-Solving First**
 - 🎯 **Quality Over Quantity**
 
