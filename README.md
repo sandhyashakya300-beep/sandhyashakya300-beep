@@ -159,7 +159,8 @@ perfection, we can catch excellence."*
 <p>⭐ <i>If you find my work valuable, consider starring my repositories!</i> ⭐</p>
 <p><b>"The best way to learn is to build something that matters."</b></p>
     
-<p><b>"A Data Scientist is someone who is better at statistics than any software Engineer and better at Software Engineering than any statistican"</b></p>
+<p><b>"A Data Scientist is someone who is better at statistics than any software Engineer and better at Software Engineering than any statistican"</b>
+</p>
 
 </div>
 
